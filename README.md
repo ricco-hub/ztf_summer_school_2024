@@ -15,21 +15,21 @@ Day 1 (Monday, July 29th):
   * Tutorials: Alert Stream Access, Training a BTS-like model
 
 Day 2 (Tuesday, July 30th):
-  * Talks: Supervised Learning Lecture and Notebook (William Benoit, 9 am - 12:30 pm)                
+  * Talks: Supervised Learning Lecture and Notebook (William Benoit, 9 am - 12:30 pm)
   * Tutorials: Compact binary coalescences
   * Outing: Bell Museum / Planetarium
 
 Day 3 (Wednesday, July 31st):
-  * Talks: Mixed Integer Linear Programming Lecture and Notebook (Leo Singer, 9 am - 12:30 pm), Simulation Based Inference Lecture and Notebook (Ethan Marx, 2 - 5 pm), 
+  * Talks: Mixed Integer Linear Programming Lecture and Notebook (Leo Singer, 9 am - 12:30 pm), Simulation Based Inference Lecture and Notebook (Ethan Marx, 2 - 5 pm),
   * Tutorials: Kilonova light curves, Telescope Scheduling with MILP
 
 Day 4 (Thursday, August 1st):
   * Talks: Anomaly Detection Lecture and Notebook (Xialong Li, 9 am - 10:30 am, Daniel Warshofsky, 11 am - 12:30 pm)
-  * Tutorials: Echoes case study, transient case study 
+  * Tutorials: Echoes case study, transient case study
   * Outing: Mall of America
 
 Day 5 (Friday, August 2nd):
-  * Hackathon with BTS data set 
+  * Hackathon with BTS data set
 
 ### How to use these materials
 
@@ -39,7 +39,7 @@ Day 5 (Friday, August 2nd):
 
 * Lectures are in directories named XY/ where XY/ is the number of the day
 
-* Various help cheat sheets are included in help/. 
+* Various help cheat sheets are included in help/.
 
 * You should also review in-class notebooks to make sure you understand what is happening
 
