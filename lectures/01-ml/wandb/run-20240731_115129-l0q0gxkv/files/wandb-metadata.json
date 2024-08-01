@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.4",
+    "heartbeatAt": "2024-07-31T16:51:34.103193",
+    "startedAt": "2024-07-31T16:51:29.602004",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ricco-hub/ztf_summer_school_2024.git",
+        "commit": "997ac60e2b200e46257b84a1d3d59ac753bd077c"
+    },
+    "email": "rcv38@cornell.edu",
+    "root": "C:/Users/ricco/OneDrive/Desktop/ztf_summer_school_2024",
+    "host": "DESKTOP-KN5CM5M",
+    "username": "ricco",
+    "executable": "c:\\Users\\ricco\\OneDrive\\Desktop\\ztf_summer_school_2024\\lectures\\01-ml\\myenv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1494.0,
+        "min": 0.0,
+        "max": 1992.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1494.0,
+            "min": 0.0,
+            "max": 1992.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 222.70214462280273,
+            "used": 203.4329490661621
+        }
+    },
+    "memory": {
+        "total": 7.751091003417969
+    }
+}
